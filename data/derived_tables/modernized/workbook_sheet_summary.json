@@ -1,0 +1,9 @@
+[
+  {
+    "sheet": "Sheet1",
+    "csv": "data/derived_tables/modernized/csv/Sheet1.csv",
+    "rows": 262,
+    "cols": 11,
+    "nonempty_cells": 323
+  }
+]
