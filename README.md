@@ -1,5 +1,9 @@
 # Integrating Feedback Into The Transportation Planning Model
 
+## Contribution
+
+This paper restructures the conventional transportation planning model so that travel demand, route assignment, and traffic-signal control respond consistently to one another. Its six-stage feedback algorithm produces convergent travel times and shows, in a Baltimore–Washington application, that feedback materially changes long-range forecasts compared with a one-way sequential model.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1994-01`
