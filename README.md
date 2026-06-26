@@ -14,7 +14,11 @@ This paper restructures the conventional transportation planning model so that t
 
 ## Package Status
 
-This package is ready for public GitHub upload after routine repository license selection. It contains no raw household, person-level, survey microdata, or sensitive spatial traces. The reusable Travel/2 code context is not duplicated here; it is referenced through the shared source bundle listed in `documentation/SHARED_SOURCE_POINTERS.md`.
+This package now has an operative root license for the author-created repository
+content. It contains no raw household, person-level, survey microdata, or
+sensitive spatial traces. The reusable Travel/2 code context is not duplicated
+here; it is referenced through the shared source bundle listed in
+`documentation/SHARED_SOURCE_POINTERS.md`.
 
 ## Paper-First Validation
 
@@ -38,10 +42,13 @@ Manuscript drafts, cover letters, cuts, and presentation-only files from the TRR
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-06-27 03:01:54 AEST
 
 - Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Root license: `LICENSE.md` (CC BY 4.0 for author-created documentation and
+  derived tables; paper PDF and third-party assets remain under their original
+  terms).
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
 <!-- package-hardening-status:end -->

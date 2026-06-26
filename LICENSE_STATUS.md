@@ -1,13 +1,21 @@
 # License Status: Integrating Feedback Into The Transportation Planning Model
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-06-27 03:01:54 AEST
 
-No publication-level open license clue was detected automatically.
+The repository has an operative root license for author-created documentation
+and derived tables.
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+Root license: `LICENSE.md`
+
+Boundary:
+
+- CC BY 4.0 for author-created documentation and derived tables.
+- Publication PDFs in `paper/` remain under their publication or repository
+  terms.
+- Third-party assets retain their original terms.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
+- Author-created data/derived tables may be shared under the root CC BY 4.0
+  boundary where rights are controlled by the repository authors.
 - Third-party raw data and publisher PDFs are not relicensed here.
